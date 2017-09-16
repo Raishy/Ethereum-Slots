@@ -3,7 +3,7 @@ The program allows the user to play slots and gamble their cryptocurrency. The j
 
 The `EtherGameDemo.mp4` shows the program working with the testrpc and Metamask extension.
 
-##### To run and test the program, You need to have the Metamask extension installed on google and you need the Ethereum Testrpc.
+##### To run and test the program, you need to have the Metamask extension installed on google and you need the Ethereum Testrpc.
 
 1. Install the testrpc via npm. https://github.com/ethereumjs/testrpc
 
