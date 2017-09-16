@@ -1,7 +1,7 @@
 # Ethereum-Slots
 The program allows the user to play slots and gamble their cryptocurrency. The java application only works with the Ethereum Testrpc and a loose ether account with Metamask on the localhost. This program was created by a team of 4 students with 2.5 months of dev time.
 
-The `EtherGameDemo.mp4` shows the program working with the testrpc and Metamask extension.
+Video Demo of the Application https://youtu.be/9Z6tv9IM1-U
 
 ##### To run and test the program, you need to have the Metamask extension installed on google and you need the Ethereum Testrpc.
 
