@@ -18,7 +18,7 @@ Video Demo of the Application https://youtu.be/9Z6tv9IM1-U
 ![alt text](https://i.imgur.com/2aMTKEd.png)
 
 4. Once testrpc is installed, run this command to start the Ethereum client   
-    `testrpc --account="0xa8b7f177000b8193528eab77a0501b7e8b308297b2912bff8a43d9d8daf180a3 999999999999999999999" --account="0xae78473c4efa3795469085422d42a4de9eea61037c20eddc0930682bfedc8a26,10000000000000000000`
+    `testrpc --account="0xa8b7f177000b8193528eab77a0501b7e8b308297b2912bff8a43d9d8daf180a3 999999999999999999999" --account="0xae78473c4efa3795469085422d42a4de9eea61037c20eddc0930682bfedc8a26,10000000000000000000"`
 
 5. On metamask, switch the network to `LocalHost8545`
 
